@@ -1,0 +1,20 @@
+body{
+    background-color: darkblue;
+}
+h1{
+    color: aqua;
+}
+.nome{
+    background-color: rgb(0, 0, 94);
+}
+.navbar{
+    background-color: rgb(0, 0, 94);
+    position: relative; bottom: 12px;
+}
+.cor1{
+    background-color: aqua;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
